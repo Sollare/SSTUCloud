@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" ContentType="text/json" AutoEventWireup="true" CodeBehind="FacultiesPage.aspx.cs" Inherits="SSTUCloud.FacultiesPage" %>

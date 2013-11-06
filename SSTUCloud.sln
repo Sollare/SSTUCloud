@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSTUCloud", "SSTUCloud\SSTUCloud.csproj", "{788AD7A8-BCE4-47F2-84D7-41A1863FAEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{572D024F-23DC-4C65-A544-83B1A99751EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788AD7A8-BCE4-47F2-84D7-41A1863FAEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788AD7A8-BCE4-47F2-84D7-41A1863FAEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788AD7A8-BCE4-47F2-84D7-41A1863FAEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788AD7A8-BCE4-47F2-84D7-41A1863FAEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572D024F-23DC-4C65-A544-83B1A99751EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572D024F-23DC-4C65-A544-83B1A99751EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572D024F-23DC-4C65-A544-83B1A99751EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572D024F-23DC-4C65-A544-83B1A99751EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
